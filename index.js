@@ -1,1 +1,143 @@
-const a0_0x349089=a0_0x2df2;(function(_0x5f593f,_0x58ed6e){const _0x4b9906=a0_0x2df2,_0x45dcbd=_0x5f593f();while(!![]){try{const _0x1718a4=parseInt(_0x4b9906(0x21e))/0x1+-parseInt(_0x4b9906(0x22b))/0x2*(-parseInt(_0x4b9906(0x1f8))/0x3)+parseInt(_0x4b9906(0x206))/0x4+-parseInt(_0x4b9906(0x227))/0x5*(-parseInt(_0x4b9906(0x1fa))/0x6)+parseInt(_0x4b9906(0x22f))/0x7*(parseInt(_0x4b9906(0x23b))/0x8)+-parseInt(_0x4b9906(0x20d))/0x9+parseInt(_0x4b9906(0x1ee))/0xa*(-parseInt(_0x4b9906(0x1fc))/0xb);if(_0x1718a4===_0x58ed6e)break;else _0x45dcbd['push'](_0x45dcbd['shift']());}catch(_0x3fbcda){_0x45dcbd['push'](_0x45dcbd['shift']());}}}(a0_0x575c,0xe9bb1));const a0_0x8d3f5d=(function(){let _0x1dc8bb=!![];return function(_0x2c0cd1,_0x1d6231){const _0x461f1c=_0x1dc8bb?function(){const _0x351962=a0_0x2df2;if(_0x1d6231){const _0x1c90f5=_0x1d6231[_0x351962(0x1fe)](_0x2c0cd1,arguments);return _0x1d6231=null,_0x1c90f5;}}:function(){};return _0x1dc8bb=![],_0x461f1c;};}()),a0_0xab4b3f=a0_0x8d3f5d(this,function(){const _0x1d102c=a0_0x2df2,_0x552f15={'cONrs':'(((.+)+)+)+$'};return a0_0xab4b3f[_0x1d102c(0x240)]()[_0x1d102c(0x23a)](_0x552f15[_0x1d102c(0x21c)])[_0x1d102c(0x240)]()[_0x1d102c(0x20c)](a0_0xab4b3f)[_0x1d102c(0x23a)](_0x552f15[_0x1d102c(0x21c)]);});a0_0xab4b3f();import'./config.js';import{fetchLatestBaileysVersion}from'raileys';import a0_0x10a3a3 from'cfonts';import{spawn}from'child_process';import{createInterface}from'readline';import{promises as a0_0x2a65fc}from'fs';import{join,dirname}from'path';import{fileURLToPath}from'url';import{sizeFormatter}from'human-readable';import a0_0xa7fd82 from'axios';import a0_0xf6030f from'os';import a0_0x220476 from'path';import a0_0x4613e1 from'moment-timezone';import a0_0x4db609 from'fs';import a0_0x45bba1 from'yargs';import a0_0x296f5d from'express';import a0_0x4054e0 from'chalk';let formatSize=sizeFormatter({'std':a0_0x349089(0x1f5),'decimalPlaces':'2','keepTrailingZeroes':![],'render':(_0x416fc6,_0x3b1137)=>_0x416fc6+'\x20'+_0x3b1137+'B'});const {say}=a0_0x10a3a3,{tz}=a0_0x4613e1,app=a0_0x296f5d(),port=process[a0_0x349089(0x210)][a0_0x349089(0x237)]||0x1f92,time=tz(a0_0x349089(0x20b))[a0_0x349089(0x1f7)](a0_0x349089(0x1f0)),currentFilePath=fileURLToPath(import.meta[a0_0x349089(0x233)]),__dirname=dirname(fileURLToPath(import.meta[a0_0x349089(0x233)]));let bot_ku=a0_0x349089(0x205);say(bot_ku,{'font':'simpleBlock','align':a0_0x349089(0x1f2),'gradient':[a0_0x349089(0x22a),a0_0x349089(0x20a),a0_0x349089(0x1ff)],'transitionGradient':0x1}),say(a0_0x349089(0x23c)+info['nameown'],{'font':a0_0x349089(0x22c),'align':'center','colors':[a0_0x349089(0x200)]}),app[a0_0x349089(0x209)](port,()=>{const _0x5775bd=a0_0x349089;console[_0x5775bd(0x212)](a0_0x4054e0[_0x5775bd(0x231)](_0x5775bd(0x20f)+port+'\x20telah\x20terbuka'));});const folderPath=a0_0x349089(0x214);!a0_0x4db609['existsSync'](folderPath)&&(a0_0x4db609['mkdirSync'](folderPath),console[a0_0x349089(0x212)](a0_0x4054e0[a0_0x349089(0x231)](a0_0x349089(0x222))));let isRunning=![];const rl=createInterface(process[a0_0x349089(0x203)],process[a0_0x349089(0x1fd)]);function a0_0x2df2(_0x3e5078,_0x2fa36a){const _0x385e6e=a0_0x575c();return a0_0x2df2=function(_0xab4b3f,_0x8d3f5d){_0xab4b3f=_0xab4b3f-0x1ed;let _0x575c7a=_0x385e6e[_0xab4b3f];return _0x575c7a;},a0_0x2df2(_0x3e5078,_0x2fa36a);}function a0_0x575c(){const _0x36ec8e=['OTBPk','stdin','emit','RassaBot','1723604leaIRL','tDODp','XKeiQ','listen','cyan','Asia/Jakarta','constructor','7507413aWlvRN','PTpui','🔥Port\x20','env','isDirectory','log','PNvqc','./tmp','slice','[\x20✅\x20Accepted\x20\x20]','version','ipc','bgRed','dTgfn','lfCdZ','cONrs','seQrX','342606FJDIyM','vzXCv','inherit','lkwMu','Folder\x20tmp\x20berhasil\x20dibuat.','test','BwfFC','uptime','line','78205KkJlJu','statSync','Library\x20Baileys\x20Versi\x20','yellow','12icgQpD','tiny','argv','Library\x20Baileys\x20Tidak\x20Terinstall','5612341jKsoyn','plugins','green','xJGwH','url','exitProcess','Folder\x20Plugins\x20Error:\x20','./package.json','PORT','exit','bgGreen','search','8QiTUqq','by\x20','error','readdir','send','toString','nnIGx','reset','TJxJi','\x20Telah\x20Terinstall','message','2351510eiKiGX','magenta','HH:mm:ss','EjsaA','center','Pftfm','OYBNd','JEDEC','ROSkA','format','627225dCsvxq','kill','594MIXTov','ibQws','121ukAXpK','stdout','apply','red','white','AjQoL'];a0_0x575c=function(){return _0x36ec8e;};return a0_0x575c();}async function start(_0xb89b0a){const _0x114ffd=a0_0x349089,_0x258084={'WKcAb':_0x114ffd(0x216),'TJxJi':_0x114ffd(0x242),'lKNEF':_0x114ffd(0x225),'seQrX':function(_0x236472,_0x55bb90){return _0x236472(_0x55bb90);},'PNvqc':function(_0x29cfc3,_0x3715e8){return _0x29cfc3(_0x3715e8);},'Pftfm':'[❗]\x20Keluar\x20dengan\x20kode\x20:','ApmnD':function(_0x5828f6,_0x226c4b){return _0x5828f6(_0x226c4b);},'omgIZ':function(_0x209064,_0x800b88,_0x2eda05){return _0x209064(_0x800b88,_0x2eda05);},'lkwMu':_0x114ffd(0x1ed),'XKeiQ':function(_0x27f5c2){return _0x27f5c2();},'BwfFC':_0x114ffd(0x22e),'tDODp':_0x114ffd(0x220),'PTpui':_0x114ffd(0x218),'OTBPk':_0x114ffd(0x238),'ibQws':_0x114ffd(0x223),'vzXCv':_0x114ffd(0x226),'OYBNd':function(_0x5171b0,_0x4adae8,_0x539411){return _0x5171b0(_0x4adae8,_0x539411);},'xJGwH':_0x114ffd(0x236),'EjsaA':function(_0x196d92,_0x424d62,_0x301008){return _0x196d92(_0x424d62,_0x301008);},'lfCdZ':function(_0x310d37,_0x153297){return _0x310d37(_0x153297);},'nnIGx':_0x114ffd(0x230)};if(isRunning)return;isRunning=!![];const _0xc6c9b9=[join(_0x258084[_0x114ffd(0x21d)](dirname,currentFilePath),_0xb89b0a),...process[_0x114ffd(0x22d)]['slice'](0x2)],_0x19f3a8=spawn(process[_0x114ffd(0x22d)][0x0],_0xc6c9b9,{'stdio':[_0x258084[_0x114ffd(0x207)],_0x258084['tDODp'],_0x258084[_0x114ffd(0x207)],_0x258084[_0x114ffd(0x20e)]]});_0x19f3a8['on'](_0x258084[_0x114ffd(0x221)],_0x510a5c=>{const _0x57146f=_0x114ffd;console['log'](a0_0x4054e0[_0x57146f(0x1ef)](_0x258084['WKcAb'],_0x510a5c));switch(_0x510a5c){case _0x258084[_0x57146f(0x243)]:_0x19f3a8['process'][_0x57146f(0x1f9)](),isRunning=![],start[_0x57146f(0x1fe)](this,arguments);break;case _0x258084['lKNEF']:_0x19f3a8[_0x57146f(0x23f)](process[_0x57146f(0x225)]());break;}}),_0x19f3a8['on'](_0x258084[_0x114ffd(0x202)],(_0xb1b12e,_0x3f7724)=>{const _0x12ab77=_0x114ffd;isRunning=![],console[_0x12ab77(0x23d)](_0x258084[_0x12ab77(0x1f3)],_0x3f7724);if(_0x3f7724!==0x0)return _0x258084['ApmnD'](start,_0xb89b0a);_0x258084['omgIZ'](watchFile,_0xc6c9b9[0x0],()=>{const _0x4ac2e5=_0x12ab77;_0x258084[_0x4ac2e5(0x21d)](unwatchFile,_0xc6c9b9[0x0]),_0x258084[_0x4ac2e5(0x213)](start,_0xb89b0a);});});let _0x384691=new Object(a0_0x45bba1(process[_0x114ffd(0x22d)][_0x114ffd(0x215)](0x2))[_0x114ffd(0x234)](![])['parse']());if(!_0x384691[_0x258084[_0x114ffd(0x1fb)]]){if(!rl['listenerCount']())rl['on'](_0x258084[_0x114ffd(0x21f)],_0x50db9f=>{const _0x5d4302=_0x114ffd;_0x19f3a8[_0x5d4302(0x204)](_0x258084[_0x5d4302(0x221)],_0x50db9f['trim']());});}const _0x6b7ce4=_0x258084[_0x114ffd(0x1f4)](join,dirname(currentFilePath),_0x258084[_0x114ffd(0x232)]),_0x3ecaf1=_0x258084[_0x114ffd(0x1f1)](join,_0x258084[_0x114ffd(0x21b)](dirname,currentFilePath),_0x258084[_0x114ffd(0x241)]);console[_0x114ffd(0x212)](_0x3ecaf1),console[_0x114ffd(0x212)](_0x3ecaf1);const _0x447340=await _0x258084['ApmnD'](getTotalFoldersAndFiles,_0x3ecaf1);a0_0x4db609[_0x114ffd(0x23e)](_0x3ecaf1,async(_0x203aa3,_0x1654b8)=>{const _0x5de38e=_0x114ffd;if(_0x203aa3){console[_0x5de38e(0x23d)](a0_0x4054e0[_0x5de38e(0x1ff)](_0x5de38e(0x235)+_0x203aa3));return;}try{console[_0x5de38e(0x212)](a0_0x4054e0[_0x5de38e(0x239)](a0_0x4054e0[_0x5de38e(0x200)](_0x5de38e(0x229)+(await _0x258084[_0x5de38e(0x208)](fetchLatestBaileysVersion))[_0x5de38e(0x217)]+_0x5de38e(0x244))));}catch(_0xdefcf4){console['error'](a0_0x4054e0[_0x5de38e(0x219)](a0_0x4054e0[_0x5de38e(0x200)](_0x258084[_0x5de38e(0x224)])));}}),_0x258084['EjsaA'](setInterval,()=>{},0x3e8);}function getTotalFoldersAndFiles(_0x18fe60){const _0x405e3e={'zeell':function(_0xc4eb06,_0x516834,_0x278cf6){return _0xc4eb06(_0x516834,_0x278cf6);},'AjQoL':function(_0xc8dfff,_0x10ba62){return _0xc8dfff(_0x10ba62);}};return new Promise((_0x4d1d41,_0x26b14e)=>{const _0xe444ee=a0_0x2df2,_0x32c5c4={'ROSkA':function(_0x5e07cc,_0x19bff8,_0x42f3ec){return _0x405e3e['zeell'](_0x5e07cc,_0x19bff8,_0x42f3ec);},'dTgfn':function(_0xb2145b,_0x7dde44){const _0x20467e=a0_0x2df2;return _0x405e3e[_0x20467e(0x201)](_0xb2145b,_0x7dde44);}};a0_0x4db609[_0xe444ee(0x23e)](_0x18fe60,(_0xfcf2c5,_0x36094f)=>{const _0x14606a=_0xe444ee;if(_0xfcf2c5)_0x32c5c4[_0x14606a(0x21a)](_0x26b14e,_0xfcf2c5);else{let _0x5c2329=0x0,_0x49d511=0x0;_0x36094f['forEach'](_0x51bcc9=>{const _0x8b921b=_0x14606a,_0x469c62=_0x32c5c4[_0x8b921b(0x1f6)](join,_0x18fe60,_0x51bcc9);a0_0x4db609[_0x8b921b(0x228)](_0x469c62)[_0x8b921b(0x211)]()?_0x5c2329++:_0x49d511++;}),_0x4d1d41({'folders':_0x5c2329,'files':_0x49d511});}});});}start('main.js');
+import './config.js'
+import { fetchLatestBaileysVersion } from 'raileys'
+import cfont from "cfonts";
+import { spawn } from 'child_process';
+import { createInterface } from "readline";
+import { promises as fsPromises } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+import { sizeFormatter } from 'human-readable';
+
+import axios from 'axios';
+import os from 'os';
+import path from 'path';
+import moment from 'moment-timezone'
+import fs from 'fs';
+import yargs from "yargs";
+import express from 'express';
+import chalk from 'chalk';
+
+let formatSize = sizeFormatter({
+	std: 'JEDEC',
+	decimalPlaces: '2',
+	keepTrailingZeroes: false,
+	render: (literal, symbol) => `${literal} ${symbol}B`
+})
+const { 
+ say } = cfont
+const {
+ tz } = moment
+const app = express();
+const port = process.env.PORT || 8082;
+const time = tz('Asia/Jakarta').format('HH:mm:ss');
+//const currentFilePath = new URL(import.meta.url).pathname;
+const currentFilePath = fileURLToPath(import.meta.url);
+
+
+const __dirname = dirname(fileURLToPath(import.meta.url))
+
+let bot_ku = 'RassaBot'
+say(bot_ku, {
+  font: "simpleBlock",
+  align: "center",
+  gradient: ["yellow", "cyan", "red"],
+  transitionGradient: 1,
+})
+say('by ' + info.nameown, {
+  font: "tiny",
+  align: "center",
+  colors: ["white"]
+})
+app.listen(port, () => {
+  console.log(chalk.green(`🔥Port ${port} telah terbuka`));
+});
+const folderPath = './tmp';
+    if (!fs.existsSync(folderPath)) {
+        fs.mkdirSync(folderPath);
+        console.log(chalk.green('Folder tmp berhasil dibuat.'));
+        }
+        
+let isRunning = false;
+
+const rl = createInterface(process.stdin, process.stdout)
+
+async function start(file) {
+    if (isRunning) return;
+  isRunning = true;
+
+  const args = [join(dirname(currentFilePath), file), ...process.argv.slice(2)];
+  const p = spawn(process.argv[0], args, {
+    stdio: ['inherit', 'inherit', 'inherit', 'ipc'],
+  });
+    p.on("message", data => {
+    console.log(chalk.magenta("[ ✅ Accepted  ]", data))
+        switch (data) {
+            case "reset":
+                p.process.kill()
+                isRunning = false
+                start.apply(this, arguments)
+                break
+            case "uptime":
+                p.send(process.uptime())
+                break
+        }
+    })
+    p.on("exit", (_, code) => {
+        isRunning = false
+        console.error("[❗] Keluar dengan kode :", code)
+        if (code !== 0) return start(file)
+        watchFile(args[0], () => {
+            unwatchFile(args[0])
+            start(file)
+        })
+    })
+    
+    let opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+    if (!opts["test"])
+        if (!rl.listenerCount()) rl.on("line", line => {
+            p.emit("message", line.trim())
+        })
+
+
+const packageJsonPath = join(dirname(currentFilePath), './package.json');
+const pluginsFolder = join(dirname(currentFilePath), 'plugins');
+console.log(pluginsFolder)
+console.log(pluginsFolder)
+const totalFoldersAndFiles = await getTotalFoldersAndFiles(pluginsFolder);
+  fs.readdir(pluginsFolder, async (err, files) => {
+    if (err) {
+      console.error(chalk.red(`Folder Plugins Error: ${err}`));
+      return;
+    }
+
+    try {
+      console.log(chalk.bgGreen(chalk.white(`Library Baileys Versi ${(await fetchLatestBaileysVersion()).version} Telah Terinstall`)));
+    } catch (e) {
+      console.error(chalk.bgRed(chalk.white('Library Baileys Tidak Terinstall')));
+    }
+  })
+  setInterval(() => {}, 1000);
+}
+
+function getTotalFoldersAndFiles(folderPath) {
+  return new Promise((resolve, reject) => {
+    fs.readdir(folderPath, (err, files) => {
+      if (err) {
+        reject(err);
+      } else {
+        let folders = 0;
+        let filesCount = 0;
+        files.forEach((file) => {
+          const filePath = join(folderPath, file);
+          if (fs.statSync(filePath).isDirectory()) {
+            folders++;
+          } else {
+            filesCount++;
+          }
+        });
+        resolve({ folders, files: filesCount });
+      }
+    });
+  });
+}
+start('main.js');

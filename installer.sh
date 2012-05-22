@@ -48,7 +48,7 @@ echo "[+] Cloning RassaBot Free repository..."
 git clone https://github.com/rassalee/rassabotfree
 
 cd rassabotfree
-echo "[✓] Clone selesai! Folder ada di: $HOME/rassabot/rassabotfree"
+echo "[✓] Clone selesai! Folder ada di: ./rassabot/rassabotfree"
 
 echo "Install Node_Modules - yarn"
 yarn
