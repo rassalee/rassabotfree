@@ -6,12 +6,17 @@ echo "Memulai proses install Package untuk RassaBot Clone..."
 sleep 2
 
 echo "[+] Updating packages..."
+pkg update
+pkg upgrade
 
 echo "[+] Installing Git..."
+pkg install git
 
 echo "[+] Installing Node.js..."
+pkg install nodejs
 
 echo "[+] Installing Yarn (via npm)..."
+pkg install yarn
 
 sleep 2
 clear
