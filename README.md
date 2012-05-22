@@ -35,10 +35,14 @@ Cukup jalankan perintah ini di Termux:
 
 ```sh
 curl -sL https://raw.githubusercontent.com/rassalee/rassabotfree/refs/heads/main/installer.sh | sh
+```
+
+---
 
 ## Contact pengembang
 
 - Wa: 0877-1666-6124
 - Email: admobtodan@gmail.com
+- Group Wa: https://chat.whatsapp.com/F3nOKgMiZ3I6GCdkMbcECf
 
-=======
+---
