@@ -34,7 +34,7 @@ Sebelum menjalankan, pastikan kamu memenuhi syarat berikut:
 Cukup jalankan perintah ini di Termux:
 
 ```sh
-curl -sL https://raw.githubusercontent.com/USERNAME/REPO/main/install.sh | sh
+curl -sL https://raw.githubusercontent.com/rassalee/rassabotfree/refs/heads/main/installer.sh | sh
 
 ## Contact pengembang
 

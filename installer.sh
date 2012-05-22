@@ -28,26 +28,19 @@ echo ""
 echo "   > OS Supported: Android (Termux)"
 echo "   > Script Type : RassaBot Free Version"
 echo ""
-echo "Note: Untuk pengguna Termux, lanjutkan dengan ketik Y"
+echo "Note: Untuk pengguna Termux"
 echo ""
 
-printf "Continue (Y/N)? "
-read i
+sleep 5
 
-if [ "$i" = "Y" ] || [ "$i" = "y" ]; then
-    echo "[+] Memulai proses clone..."
-    sleep 1
+echo "[+] Memulai proses clone..."
+sleep 1
+cd "$HOME"
+mkdir -p rassabot
+cd rassabot
 
-    cd "$HOME"
-    mkdir -p rassabot
-    cd rassabot
+echo "[+] Cloning RassaBot Free repository..."
+git clone https://github.com/rassalee/rassabotfree
 
-    echo "[+] Cloning RassaBot Free repository..."
-    git clone https://github.com/rassalee/rassabotfree
-
-    cd rassabotfree
-    echo "[✓] Clone selesai! Folder ada di: $HOME/rassabot/rassabotfree"
-else
-    echo "[!] Instalasi dibatalkan."
-    exit 0
-fi
+cd rassabotfree
+echo "[✓] Clone selesai! Folder ada di: $HOME/rassabot/rassabotfree"
