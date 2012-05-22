@@ -44,3 +44,12 @@ git clone https://github.com/rassalee/rassabotfree
 
 cd rassabotfree
 echo "[✓] Clone selesai! Folder ada di: $HOME/rassabot/rassabotfree"
+
+echo "Install Node_Modules - yarn"
+yarn
+
+
+echo "Siap digunakan"
+cd 
+cd rassabot
+cd rassabotfree
