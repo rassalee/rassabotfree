@@ -15,7 +15,17 @@ RassaBot Free adalah bot WhatsApp berbasis Node.js yang bisa kamu jalankan langs
 ## 🛠️ Persyaratan
 
 Sebelum menjalankan, pastikan kamu sudah menginstal **Termux** dari F-Droid (bukan dari Play Store).
-NodeJs V20+
+
+---
+
+## 🛠️ Persyaratan
+
+Sebelum menjalankan, pastikan kamu memenuhi syarat berikut:
+
+- 📱 **Android dengan Termux** (disarankan install dari F-Droid, bukan Play Store)
+- 🌐 Koneksi internet stabil
+- 🟢 **Node.js versi 20 atau lebih tinggi**
+- 🧶 Yarn (akan diinstal otomatis via script)
 
 ---
 
