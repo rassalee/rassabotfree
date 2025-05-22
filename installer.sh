@@ -14,16 +14,16 @@ sleep 2
 
 # ---------- Update & install paket ----------
 echo -e "\e[1;36m[+] Updating packages...\e[0m"
-pkg update -y && pkg upgrade -y
+#pkg update -y && pkg upgrade -y
 
 echo -e "\e[1;36m[+] Installing Git...\e[0m"
-pkg install git -y
+#pkg install git -y
 
 echo -e "\e[1;36m[+] Installing Node.js...\e[0m"
-pkg install nodejs -y
+#pkg install nodejs -y
 
 echo -e "\e[1;36m[+] Installing Yarn (global)...\e[0m"
-npm install -g yarn
+#npm install -g yarn
 
 sleep 2
 clear
