@@ -1,1 +1,55 @@
-const a0_0x33c311=a0_0x3893;(function(_0x40e9b4,_0x3a5b59){const _0x15edb9=a0_0x3893,_0x184059=_0x40e9b4();while(!![]){try{const _0x43f2cb=parseInt(_0x15edb9(0xc5))/0x1*(-parseInt(_0x15edb9(0xb2))/0x2)+-parseInt(_0x15edb9(0xb6))/0x3+parseInt(_0x15edb9(0xa8))/0x4*(-parseInt(_0x15edb9(0xc4))/0x5)+-parseInt(_0x15edb9(0xb7))/0x6+parseInt(_0x15edb9(0xca))/0x7+-parseInt(_0x15edb9(0xc7))/0x8+parseInt(_0x15edb9(0xcd))/0x9;if(_0x43f2cb===_0x3a5b59)break;else _0x184059['push'](_0x184059['shift']());}catch(_0x54827){_0x184059['push'](_0x184059['shift']());}}}(a0_0x31d4,0x88ca2));function a0_0x31d4(){const _0x64f1b1=['711208BnjMAz','Rassa','log','2483803JsDgEz','https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4','https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg','17880336NnTPAX','https://chat.whatsapp.com/F3nOKgMiZ3I6GCdkMbcECf','apply','8VHqplB','owner','?update=','info','cdZSd','https://media.vocaroo.com/mp3/1awgSZYHXP3B','62877166661241','https://raw.githubusercontent.com/rassa7113/image_bot/refs/heads/main/Graident%20Ai%20Robot.jpg','setting','maxwarn','189076bFKVze','search','https://telegra.ph/file/1c05b8c019fa525567d01.mp4','6287716666124','621681anfOhe','3559914xGXRVc','constructor','ZUPaL','now','bot\x20wa\x20free\x20+62\x20851-7975-7729','https://files.catbox.moe/ijeati.jpg','yzivK','6287731941545','toString','freePremium','(((.+)+)+)+$','redBright','Rangga','1520455sCLxYp','3AavxcF','urlgc'];a0_0x31d4=function(){return _0x64f1b1;};return a0_0x31d4();}const a0_0x1fe2ee=(function(){let _0x282737=!![];return function(_0xf5b0c7,_0x42036e){const _0x23b807=_0x282737?function(){const _0x458556=a0_0x3893;if(_0x42036e){const _0x2d0bb5=_0x42036e[_0x458556(0xcf)](_0xf5b0c7,arguments);return _0x42036e=null,_0x2d0bb5;}}:function(){};return _0x282737=![],_0x23b807;};}()),a0_0x756dd9=a0_0x1fe2ee(this,function(){const _0x1f4d5e=a0_0x3893,_0x266018={'yzivK':_0x1f4d5e(0xc1)};return a0_0x756dd9[_0x1f4d5e(0xbf)]()[_0x1f4d5e(0xb3)](_0x266018['yzivK'])[_0x1f4d5e(0xbf)]()[_0x1f4d5e(0xb8)](a0_0x756dd9)['search'](_0x266018[_0x1f4d5e(0xbd)]);});a0_0x756dd9();import{watchFile,unwatchFile}from'fs';import a0_0x388a01 from'chalk';import{fileURLToPath}from'url';global[a0_0x33c311(0xb0)]={'autoclear':![]},global[a0_0x33c311(0xc0)]=![],global[a0_0x33c311(0xa9)]=[[a0_0x33c311(0xb5),a0_0x33c311(0xc3),!![]]],global[a0_0x33c311(0xab)]={'nomerbot':'6287731941545','pairingNumber':a0_0x33c311(0xbe),'nameown':a0_0x33c311(0xc3),'nomerown':a0_0x33c311(0xae),'packname':'sticker\x20by','author':'bot\x20wa\x20free\x20+62\x20851-7975-7729','namebot':'Rassa','wm':a0_0x33c311(0xbb),'stickpack':a0_0x33c311(0xc8),'stickauth':a0_0x33c311(0xbb)},global[a0_0x33c311(0xb1)]=0x5,global['url']={'profil':a0_0x33c311(0xbc),'thumbnail':'https://raw.githubusercontent.com/rassa7113/image_bot/refs/heads/main/Graident%20Ai%20Robot.jpg','thumb':a0_0x33c311(0xaf),'logo':a0_0x33c311(0xaf),'unReg':a0_0x33c311(0xcc),'registrasi':'https://itzpire.com/file/6ead5b50254b.jpg','confess':'https://telegra.ph/file/03cabea082a122abfa5be.jpg','akses':'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg','wel':a0_0x33c311(0xcb),'bye':a0_0x33c311(0xb4),'sound':a0_0x33c311(0xad),'sig':'','sgh':'','sgc':a0_0x33c311(0xce)},global[a0_0x33c311(0xc6)]=a0_0x33c311(0xce);function a0_0x3893(_0x162df3,_0x16efec){const _0x346624=a0_0x31d4();return a0_0x3893=function(_0x756dd9,_0x1fe2ee){_0x756dd9=_0x756dd9-0xa8;let _0x31d4a7=_0x346624[_0x756dd9];return _0x31d4a7;},a0_0x3893(_0x162df3,_0x16efec);}let file=fileURLToPath(import.meta['url']);watchFile(file,()=>{const _0x524ad7=a0_0x33c311,_0x562654={'ZUPaL':function(_0x24a2ea,_0x463942){return _0x24a2ea(_0x463942);},'cdZSd':'Update\x20\x27config.js\x27'};_0x562654[_0x524ad7(0xb9)](unwatchFile,file),console[_0x524ad7(0xc9)](a0_0x388a01[_0x524ad7(0xc2)](_0x562654[_0x524ad7(0xac)])),import(file+_0x524ad7(0xaa)+Date[_0x524ad7(0xba)]());});
+import { watchFile, unwatchFile } from "fs";
+import chalk from "chalk";
+import { fileURLToPath } from "url";
+
+// Global Settings
+global.setting = {
+  autoclear: false
+};
+global.freePremium = false;
+// Owner Information
+global.owner = [["6287716666124", "Rangga", true]];
+
+// Bot Information
+global.info = {
+  nomerbot: "6287731941545", 
+  pairingNumber: "6287731941545", 
+  nameown: "Rangga",
+  nomerown: "62877166661241",
+  packname: "sticker by",
+  author: "bot wa free +62 851-7975-7729",
+  namebot: "Rassa",
+  wm: "bot wa free +62 851-7975-7729",
+  stickpack: "Rassa",
+  stickauth: "bot wa free +62 851-7975-7729",
+};
+
+
+global.maxwarn = 5;
+
+// URLs
+global.url = {
+  profil: "https://files.catbox.moe/ijeati.jpg",
+  thumbnail: "https://raw.githubusercontent.com/rassa7113/image_bot/refs/heads/main/Graident%20Ai%20Robot.jpg",
+  thumb: "https://raw.githubusercontent.com/rassa7113/image_bot/refs/heads/main/Graident%20Ai%20Robot.jpg",
+  logo: "https://raw.githubusercontent.com/rassa7113/image_bot/refs/heads/main/Graident%20Ai%20Robot.jpg",
+  unReg: "https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg",
+  registrasi: "https://itzpire.com/file/6ead5b50254b.jpg",
+  confess: "https://telegra.ph/file/03cabea082a122abfa5be.jpg",
+  akses: "https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg",
+  wel: "https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4", // Welcome GIF
+  bye: "https://telegra.ph/file/1c05b8c019fa525567d01.mp4", // Goodbye GIF
+  sound: "https://media.vocaroo.com/mp3/1awgSZYHXP3B", // Audio menu
+  sig: "",
+  sgh: "",
+  sgc: "https://chat.whatsapp.com/F3nOKgMiZ3I6GCdkMbcECf",
+};
+global.urlgc = "https://chat.whatsapp.com/F3nOKgMiZ3I6GCdkMbcECf";
+
+
+let file = fileURLToPath(import.meta.url);
+watchFile(file, () => {
+  unwatchFile(file);
+  console.log(chalk.redBright("Update 'config.js'"));
+  import(`${file}?update=${Date.now()}`);
+});
